@@ -1,0 +1,55 @@
+# 📦 JavaScript Practice – Videos 1 to 10
+
+This folder contains my JavaScript practice files based on the **first 10 videos** of the Bro Code JavaScript tutorial on YouTube.
+
+Each file corresponds to a specific lesson and focuses on core JavaScript fundamentals.
+
+---
+
+## 🧠 Topics Covered
+
+1. Variables and Data Types  
+2. Operators  
+3. User Input (`prompt`)  
+4. Strings  
+5. Numbers and Math Methods  
+6. Type Conversion  
+7. Logical OR (`||`) and default values  
+8. Conditional Statements (`if / else`)  
+9. Comparison and Logical Operators  
+10. Switch Statements
+
+---
+
+## 📂 File Naming
+
+Each file is numbered to match the video it refers to, e.g.:
+
+1. First-JavaScript
+2. VARIABLES  
+3. ARITHMETIC OPERATORS  
+4. USER INPUT
+5. TYPE CONVERSION 
+6. CONSTANTS 
+7. COUNTER
+8. Math object 
+9. Random number generator
+10. If statements
+
+---
+
+## 🚀 How to Use
+
+- You can run these files using your browser’s console or **Node.js**.
+- Some examples may need to be embedded in a basic HTML file to test in a browser.
+
+---
+
+## 📌 Note
+
+These files are for **educational and personal practice purposes** only.  
+They are based on Bro Code’s tutorials and may include slight modifications for better understanding.
+
+---
+
+🎯 Stay tuned for the next parts!
