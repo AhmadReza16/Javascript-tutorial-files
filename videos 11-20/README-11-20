@@ -1,40 +1,27 @@
-# 📦 JavaScript Practice – Videos 1 to 10
 
-This folder contains my JavaScript practice files based on the **first 10 videos** of the Bro Code JavaScript tutorial on YouTube.
+# 📦 JavaScript Practice – Videos 11 to 20
+
+This folder contains my JavaScript practice files based on the **second 10 videos** of the Bro Code JavaScript tutorial on YouTube.
 
 Each file corresponds to a specific lesson and focuses on core JavaScript fundamentals.
 
 ---
 
-## 🧠 Topics Covered
-
-1. Variables and Data Types  
-2. Operators  
-3. User Input (`prompt`)  
-4. Strings  
-5. Numbers and Math Methods  
-6. Type Conversion  
-7. Logical OR (`||`) and default values  
-8. Conditional Statements (`if / else`)  
-9. Comparison and Logical Operators  
-10. Switch Statements
-
----
 
 ## 📂 File Naming
 
 Each file is numbered to match the video it refers to, e.g.:
 
-1. First-JavaScript
-2. VARIABLES  
-3. ARITHMETIC OPERATORS  
-4. USER INPUT
-5. TYPE CONVERSION 
-6. CONSTANTS 
-7. COUNTER
-8. Math object 
-9. Random number generator
-10. If statements
+11. checked property
+12. TERNARY OPERATOR
+13. SWITCHES 
+14. STRING METHODS
+15. STRING SLICING
+16. METHOD CHAINING
+17. LOGICAL OPERATORS
+18. STRICT EQUALITY
+19. WHILE LOOPS
+20. FOR LOOPS
 
 ---
 
