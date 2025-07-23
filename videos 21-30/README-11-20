@@ -1,0 +1,41 @@
+# 📦 JavaScript Practice – Videos 11 to 20
+
+This folder contains my JavaScript practice files based on the **Third 10 videos** of the Bro Code JavaScript tutorial on YouTube.
+
+Each file corresponds to a specific lesson and focuses on core JavaScript fundamentals.
+
+---
+
+
+## 📂 File Naming
+
+Each file is numbered to match the video it refers to, e.g.:
+
+21. NUMBER GUESSING GAME ↕
+22. FUNCTIONS
+23. VARIABLE SCOPE
+24. TEMPERATURE CONVERSION
+25. ARRAYS
+26. ARRAYS
+27. SPREAD OPERATOR
+28. REST PARAMETERS
+29. Dice Roller
+30. random password
+
+---
+
+## 🚀 How to Use
+
+- You can run these files using your browser’s console or **Node.js**.
+- Some examples may need to be embedded in a basic HTML file to test in a browser.
+
+---
+
+## 📌 Note
+
+These files are for **educational and personal practice purposes** only.  
+They are based on Bro Code’s tutorials and may include slight modifications for better understanding.
+
+---
+
+🎯 Stay tuned for the next parts!
