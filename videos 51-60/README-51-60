@@ -1,0 +1,40 @@
+# 📦 JavaScript Practice – Videos 51 to 60
+
+This folder contains my JavaScript practice files based on the **Sixth 10 videos** of the Bro Code JavaScript tutorial on YouTube.
+
+Each file corresponds to a specific lesson and focuses on core JavaScript fundamentals.
+
+---
+
+## 📂 File Naming
+
+Each file is numbered to match the video it refers to, e.g.:
+
+51. DATE objects
+52. CLOSURES
+53. setTimeout()
+54. console.time()
+55. Format currency
+56. interest calculator
+57. Digital Clock
+58. STOPWATCH
+59. ES6 Modules
+60. asynchronous
+
+---
+
+## 🚀 How to Use
+
+- You can run these files using your browser’s console or **Node.js**.
+- Some examples may need to be embedded in a basic HTML file to test in a browser.
+
+---
+
+## 📌 Note
+
+These files are for **educational and personal practice purposes** only.  
+They are based on Bro Code’s tutorials and may include slight modifications for better understanding.
+
+---
+
+🎯 Stay tuned for the next parts!
