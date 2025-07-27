@@ -1,0 +1,40 @@
+# 📦 JavaScript Practice – Videos 61 to 70
+
+This folder contains my JavaScript practice files based on the **Seventh 10 videos** of the Bro Code JavaScript tutorial on YouTube.
+
+Each file corresponds to a specific lesson and focuses on core JavaScript fundamentals.
+
+---
+
+## 📂 File Naming
+
+Each file is numbered to match the video it refers to, e.g.:
+
+61. Error handling
+62. JS calculator
+63. DOM explained
+64. ELEMENT SELECTORS
+65. DOM Navigation
+66. ADD CHANGE HTML
+67. MOUSE EVENTS
+68. KEY EVENTS
+69. HIDE and SHOW HTML
+70. NodeLists
+
+---
+
+## 🚀 How to Use
+
+- You can run these files using your browser’s console or **Node.js**.
+- Some examples may need to be embedded in a basic HTML file to test in a browser.
+
+---
+
+## 📌 Note
+
+These files are for **educational and personal practice purposes** only.  
+They are based on Bro Code’s tutorials and may include slight modifications for better understanding.
+
+---
+
+🎯 Stay tuned for the next parts!
