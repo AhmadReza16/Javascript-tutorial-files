@@ -1,0 +1,40 @@
+# 📦 JavaScript Practice – Videos 71 to 80
+
+This folder contains my JavaScript practice files based on the **Eighth 10 videos** of the Bro Code JavaScript tutorial on YouTube.
+
+Each file corresponds to a specific lesson and focuses on core JavaScript fundamentals.
+
+---
+
+## 📂 File Naming
+
+Each file is numbered to match the video it refers to, e.g.:
+
+71. classList property
+72. ROCK PAPER SCISSORS
+73. IMAGE SLIDER
+74. CALLBACK HELL
+75. PROMISES
+76. ASYNC and AWAIT
+77. JSON files
+78. COOKIES
+79. FETCH
+80. WEATHER APP
+
+---
+
+## 🚀 How to Use
+
+- You can run these files using your browser’s console or **Node.js**.
+- Some examples may need to be embedded in a basic HTML file to test in a browser.
+
+---
+
+## 📌 Note
+
+These files are for **educational and personal practice purposes** only.  
+They are based on Bro Code’s tutorials and may include slight modifications for better understanding.
+
+---
+
+🎯 Stay tuned for the next parts!
