@@ -6,20 +6,7 @@ Each file corresponds to a specific lesson and focuses on core JavaScript fundam
 
 ---
 
-## 🧠 Topics Covered
 
-1. Variables and Data Types  
-2. Operators  
-3. User Input (`prompt`)  
-4. Strings  
-5. Numbers and Math Methods  
-6. Type Conversion  
-7. Logical OR (`||`) and default values  
-8. Conditional Statements (`if / else`)  
-9. Comparison and Logical Operators  
-10. Switch Statements
-
----
 
 ## 📂 File Naming
 
